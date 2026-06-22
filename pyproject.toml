@@ -35,7 +35,7 @@ dependencies = [
     "rich==15.0.0",
     "tqdm==4.68.3",
     "jinja2==3.1.6",
-    "fastapi==0.137.0",
+    "fastapi==0.138.0",
     "uvicorn[standard]==0.49.0",
     "python-dotenv==1.2.2",
     "pydantic==2.13.4",
